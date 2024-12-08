@@ -24,4 +24,4 @@ This project is a **simple calculator** program written in C++. It performs a va
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cpp-calculator.git
+   git clonehttps://github.com/Ismailabdullahi1/C---Projects
